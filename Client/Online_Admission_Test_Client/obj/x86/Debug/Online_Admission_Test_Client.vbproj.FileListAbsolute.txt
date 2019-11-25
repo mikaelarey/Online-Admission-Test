@@ -1,0 +1,154 @@
+C:\Users\Mikaela\AppData\Local\Temporary Projects\Online_Admission_Test_Client\bin\Debug\Online_Admission_Test_Client.exe
+C:\Users\Mikaela\AppData\Local\Temporary Projects\Online_Admission_Test_Client\bin\Debug\Online_Admission_Test_Client.pdb
+C:\Users\Mikaela\AppData\Local\Temporary Projects\Online_Admission_Test_Client\bin\Debug\Online_Admission_Test_Client.xml
+C:\Users\Mikaela\AppData\Local\Temporary Projects\Online_Admission_Test_Client\obj\x86\Debug\Online_Admission_Test_Client.Student_Form.resources
+C:\Users\Mikaela\AppData\Local\Temporary Projects\Online_Admission_Test_Client\obj\x86\Debug\Online_Admission_Test_Client.Resources.resources
+C:\Users\Mikaela\AppData\Local\Temporary Projects\Online_Admission_Test_Client\obj\x86\Debug\Online_Admission_Test_Client.vbproj.GenerateResource.Cache
+C:\Users\Mikaela\AppData\Local\Temporary Projects\Online_Admission_Test_Client\obj\x86\Debug\Online_Admission_Test_Client.exe
+C:\Users\Mikaela\AppData\Local\Temporary Projects\Online_Admission_Test_Client\obj\x86\Debug\Online_Admission_Test_Client.xml
+C:\Users\Mikaela\AppData\Local\Temporary Projects\Online_Admission_Test_Client\obj\x86\Debug\Online_Admission_Test_Client.pdb
+C:\Users\Mikaela\AppData\Local\Temporary Projects\Online_Admission_Test_Client\obj\x86\Debug\Online_Admission_Test_Client.Examination.resources
+C:\Users\Mikaela\AppData\Local\Temporary Projects\Online_Admission_Test_Client\obj\x86\Debug\Online_Admission_Test_Client.MultipleChoice.resources
+C:\Users\Mikaela\Desktop\VB.NET Project\Online_Admission_Test_Client\Online_Admission_Test_Client\obj\x86\Debug\Online_Admission_Test_Client.exe
+C:\Users\Mikaela\Desktop\VB.NET Project\Online_Admission_Test_Client\Online_Admission_Test_Client\obj\x86\Debug\Online_Admission_Test_Client.xml
+C:\Users\Mikaela\Desktop\VB.NET Project\Online_Admission_Test_Client\Online_Admission_Test_Client\obj\x86\Debug\Online_Admission_Test_Client.pdb
+E:\online_admission_test_both\Online_Admission_Test_Client _v1.0\Online_Admission_Test_Client\obj\x86\Debug\Online_Admission_Test_Client.exe
+E:\online_admission_test_both\Online_Admission_Test_Client _v1.0\Online_Admission_Test_Client\obj\x86\Debug\Online_Admission_Test_Client.xml
+E:\online_admission_test_both\Online_Admission_Test_Client _v1.0\Online_Admission_Test_Client\obj\x86\Debug\Online_Admission_Test_Client.pdb
+E:\online_admission_test_both\Online_Admission_Test_Client _v1.0\Online_Admission_Test_Client\bin\Debug\Online_Admission_Test_Client.exe
+E:\online_admission_test_both\Online_Admission_Test_Client _v1.0\Online_Admission_Test_Client\bin\Debug\Online_Admission_Test_Client.pdb
+E:\online_admission_test_both\Online_Admission_Test_Client _v1.0\Online_Admission_Test_Client\bin\Debug\Online_Admission_Test_Client.xml
+E:\online_admission_test_both\Online_Admission_Test_Client _v1.0\Online_Admission_Test_Client\obj\x86\Debug\Online_Admission_Test_Client.Examination.resources
+E:\online_admission_test_both\Online_Admission_Test_Client _v1.0\Online_Admission_Test_Client\obj\x86\Debug\Online_Admission_Test_Client.Student_Form.resources
+E:\online_admission_test_both\Online_Admission_Test_Client _v1.0\Online_Admission_Test_Client\obj\x86\Debug\Online_Admission_Test_Client.MultipleChoice.resources
+E:\online_admission_test_both\Online_Admission_Test_Client _v1.0\Online_Admission_Test_Client\obj\x86\Debug\Online_Admission_Test_Client.Resources.resources
+E:\online_admission_test_both\Online_Admission_Test_Client _v1.0\Online_Admission_Test_Client\obj\x86\Debug\Online_Admission_Test_Client.vbproj.GenerateResource.Cache
+E:\online_admission_test_both\Online_Admission_Test_Client _v1.0\Online_Admission_Test_Client\obj\x86\Debug\Online_Admission_Test_Client.MachingType.resources
+E:\online_admission_test_both\Online_Admission_Test_Client _v1.0\Online_Admission_Test_Client\obj\x86\Debug\Online_Admission_Test_Client.TrueOrFalse.resources
+E:\online_admission_test_both\Online_Admission_Test_Client _v1.0\Online_Admission_Test_Client\obj\x86\Debug\Online_Admission_Test_Client.Identification.resources
+E:\online_admission_test_both\Online_Admission_Test_Client _v1.1\Online_Admission_Test_Client\obj\x86\Debug\Online_Admission_Test_Client.exe
+E:\online_admission_test_both\Online_Admission_Test_Client _v1.1\Online_Admission_Test_Client\obj\x86\Debug\Online_Admission_Test_Client.xml
+E:\online_admission_test_both\Online_Admission_Test_Client _v1.1\Online_Admission_Test_Client\obj\x86\Debug\Online_Admission_Test_Client.pdb
+E:\online_admission_test_both\Online_Admission_Test_Client _v1.1\Online_Admission_Test_Client\bin\Debug\Online_Admission_Test_Client.exe
+E:\online_admission_test_both\Online_Admission_Test_Client _v1.1\Online_Admission_Test_Client\bin\Debug\Online_Admission_Test_Client.pdb
+E:\online_admission_test_both\Online_Admission_Test_Client _v1.1\Online_Admission_Test_Client\bin\Debug\Online_Admission_Test_Client.xml
+E:\online_admission_test_both\Online_Admission_Test_Client _v1.1\Online_Admission_Test_Client\obj\x86\Debug\Online_Admission_Test_Client.Examination.resources
+E:\online_admission_test_both\Online_Admission_Test_Client _v1.1\Online_Admission_Test_Client\obj\x86\Debug\Online_Admission_Test_Client.MainExamForm.resources
+E:\online_admission_test_both\Online_Admission_Test_Client _v1.1\Online_Admission_Test_Client\obj\x86\Debug\Online_Admission_Test_Client.Identification.resources
+E:\online_admission_test_both\Online_Admission_Test_Client _v1.1\Online_Admission_Test_Client\obj\x86\Debug\Online_Admission_Test_Client.MachingType.resources
+E:\online_admission_test_both\Online_Admission_Test_Client _v1.1\Online_Admission_Test_Client\obj\x86\Debug\Online_Admission_Test_Client.MultipleChoice.resources
+E:\online_admission_test_both\Online_Admission_Test_Client _v1.1\Online_Admission_Test_Client\obj\x86\Debug\Online_Admission_Test_Client.Resources.resources
+E:\online_admission_test_both\Online_Admission_Test_Client _v1.1\Online_Admission_Test_Client\obj\x86\Debug\Online_Admission_Test_Client.Splash.resources
+E:\online_admission_test_both\Online_Admission_Test_Client _v1.1\Online_Admission_Test_Client\obj\x86\Debug\Online_Admission_Test_Client.TrueOrFalse.resources
+E:\online_admission_test_both\Online_Admission_Test_Client _v1.1\Online_Admission_Test_Client\obj\x86\Debug\Online_Admission_Test_Client.vbproj.GenerateResource.Cache
+E:\online_admission_test_both\Online_Admission_Test_Client _v1.1\Online_Admission_Test_Client\obj\x86\Debug\Online_Admission_Test_Client.Login.resources
+E:\online_admission_test_both\Online_Admission_Test_Client _v1.1\Online_Admission_Test_Client\bin\Debug\ReyBandal.dll
+E:\online_admission_test_both\Online_Admission_Test_Client _v1.1\Online_Admission_Test_Client\bin\Debug\ReyBandal.pdb
+E:\online_admission_test_both\Online_Admission_Test_Client _v1.1\Online_Admission_Test_Client\bin\Debug\ReyBandal.xml
+E:\online_admission_test_both\Online_Admission_Test_Client _v1.1\Online_Admission_Test_Client\obj\x86\Debug\Online_Admission_Test_Client.vbprojResolveAssemblyReference.cache
+E:\online_admission_test_both\Online_Admission_Test_Client _v1.1\Online_Admission_Test_Client\obj\x86\Debug\Online_Admission_Test_Client.Register.resources
+E:\online_admission_test_both\Online_Admission_Test_Client _v1.1 - Copy\Online_Admission_Test_Client\obj\x86\Debug\Online_Admission_Test_Client.exe
+E:\online_admission_test_both\Online_Admission_Test_Client _v1.1 - Copy\Online_Admission_Test_Client\obj\x86\Debug\Online_Admission_Test_Client.xml
+E:\online_admission_test_both\Online_Admission_Test_Client _v1.1 - Copy\Online_Admission_Test_Client\obj\x86\Debug\Online_Admission_Test_Client.pdb
+E:\online_admission_test_both\Online_Admission_Test_Client _v1.1 - Copy\Online_Admission_Test_Client\bin\Debug\Online_Admission_Test_Client.exe
+E:\online_admission_test_both\Online_Admission_Test_Client _v1.1 - Copy\Online_Admission_Test_Client\bin\Debug\Online_Admission_Test_Client.pdb
+E:\online_admission_test_both\Online_Admission_Test_Client _v1.1 - Copy\Online_Admission_Test_Client\bin\Debug\Online_Admission_Test_Client.xml
+E:\online_admission_test_both\Online_Admission_Test_Client _v1.1 - Copy\Online_Admission_Test_Client\bin\Debug\ReyBandal.dll
+E:\online_admission_test_both\Online_Admission_Test_Client _v1.1 - Copy\Online_Admission_Test_Client\bin\Debug\ReyBandal.pdb
+E:\online_admission_test_both\Online_Admission_Test_Client _v1.1 - Copy\Online_Admission_Test_Client\bin\Debug\ReyBandal.xml
+E:\online_admission_test_both\Online_Admission_Test_Client _v1.1 - Copy\Online_Admission_Test_Client\obj\x86\Debug\Online_Admission_Test_Client.Examination.resources
+E:\online_admission_test_both\Online_Admission_Test_Client _v1.1 - Copy\Online_Admission_Test_Client\obj\x86\Debug\Online_Admission_Test_Client.Login.resources
+E:\online_admission_test_both\Online_Admission_Test_Client _v1.1 - Copy\Online_Admission_Test_Client\obj\x86\Debug\Online_Admission_Test_Client.MainExamForm.resources
+E:\online_admission_test_both\Online_Admission_Test_Client _v1.1 - Copy\Online_Admission_Test_Client\obj\x86\Debug\Online_Admission_Test_Client.Identification.resources
+E:\online_admission_test_both\Online_Admission_Test_Client _v1.1 - Copy\Online_Admission_Test_Client\obj\x86\Debug\Online_Admission_Test_Client.MachingType.resources
+E:\online_admission_test_both\Online_Admission_Test_Client _v1.1 - Copy\Online_Admission_Test_Client\obj\x86\Debug\Online_Admission_Test_Client.MultipleChoice.resources
+E:\online_admission_test_both\Online_Admission_Test_Client _v1.1 - Copy\Online_Admission_Test_Client\obj\x86\Debug\Online_Admission_Test_Client.Resources.resources
+E:\online_admission_test_both\Online_Admission_Test_Client _v1.1 - Copy\Online_Admission_Test_Client\obj\x86\Debug\Online_Admission_Test_Client.Register.resources
+E:\online_admission_test_both\Online_Admission_Test_Client _v1.1 - Copy\Online_Admission_Test_Client\obj\x86\Debug\Online_Admission_Test_Client.Splash.resources
+E:\online_admission_test_both\Online_Admission_Test_Client _v1.1 - Copy\Online_Admission_Test_Client\obj\x86\Debug\Online_Admission_Test_Client.TrueOrFalse.resources
+E:\online_admission_test_both\Online_Admission_Test_Client _v1.1 - Copy\Online_Admission_Test_Client\obj\x86\Debug\Online_Admission_Test_Client.vbproj.GenerateResource.Cache
+E:\online_admission_test_both\Online_Admission_Test_Client _v1.1 - Copy\Online_Admission_Test_Client\obj\x86\Debug\Online_Admission_Test_Client.StudentMainForm.resources
+E:\online_admission_test_both\Online_Admission_Test_Client _v1.1 - Copy\Online_Admission_Test_Client\obj\x86\Debug\Online_Admission_Test_Client.Profile.resources
+E:\online_admission_test_both\Online_Admission_Test_Client _v1.1 - Copy\Online_Admission_Test_Client\obj\x86\Debug\Online_Admission_Test_Client.Requirements.resources
+E:\online_admission_test_both\Online_Admission_Test_Client _v1.1 - Copy\Online_Admission_Test_Client\obj\x86\Debug\Online_Admission_Test_Client.ExaminationMain.resources
+E:\online_admission_test_both\Online_Admission_Test_Client _v1.1 - Copy\Online_Admission_Test_Client\obj\x86\Debug\Online_Admission_Test_Client.Inquiries.resources
+E:\online_admission_test_both 50%\Online_Admission_Test_Client _v1.2\Online_Admission_Test_Client\obj\x86\Debug\Online_Admission_Test_Client.exe
+E:\online_admission_test_both 50%\Online_Admission_Test_Client _v1.2\Online_Admission_Test_Client\obj\x86\Debug\Online_Admission_Test_Client.xml
+E:\online_admission_test_both 50%\Online_Admission_Test_Client _v1.2\Online_Admission_Test_Client\obj\x86\Debug\Online_Admission_Test_Client.pdb
+E:\online_admission_test_both 50%\Online_Admission_Test_Client _v1.2\Online_Admission_Test_Client\bin\Debug\Online_Admission_Test_Client.exe
+E:\online_admission_test_both 50%\Online_Admission_Test_Client _v1.2\Online_Admission_Test_Client\bin\Debug\Online_Admission_Test_Client.pdb
+E:\online_admission_test_both 50%\Online_Admission_Test_Client _v1.2\Online_Admission_Test_Client\bin\Debug\Online_Admission_Test_Client.xml
+E:\online_admission_test_both 50%\Online_Admission_Test_Client _v1.2\Online_Admission_Test_Client\bin\Debug\ReyBandal.dll
+E:\online_admission_test_both 50%\Online_Admission_Test_Client _v1.2\Online_Admission_Test_Client\bin\Debug\ReyBandal.pdb
+E:\online_admission_test_both 50%\Online_Admission_Test_Client _v1.2\Online_Admission_Test_Client\bin\Debug\ReyBandal.xml
+E:\online_admission_test_both 50%\Online_Admission_Test_Client _v1.2\Online_Admission_Test_Client\obj\x86\Debug\Online_Admission_Test_Client.vbprojResolveAssemblyReference.cache
+E:\online_admission_test_both 50%\Online_Admission_Test_Client _v1.2\Online_Admission_Test_Client\obj\x86\Debug\Online_Admission_Test_Client.Examination.resources
+E:\online_admission_test_both 50%\Online_Admission_Test_Client _v1.2\Online_Admission_Test_Client\obj\x86\Debug\Online_Admission_Test_Client.ExaminationMain.resources
+E:\online_admission_test_both 50%\Online_Admission_Test_Client _v1.2\Online_Admission_Test_Client\obj\x86\Debug\Online_Admission_Test_Client.Inquiries.resources
+E:\online_admission_test_both 50%\Online_Admission_Test_Client _v1.2\Online_Admission_Test_Client\obj\x86\Debug\Online_Admission_Test_Client.Login.resources
+E:\online_admission_test_both 50%\Online_Admission_Test_Client _v1.2\Online_Admission_Test_Client\obj\x86\Debug\Online_Admission_Test_Client.MainExamForm.resources
+E:\online_admission_test_both 50%\Online_Admission_Test_Client _v1.2\Online_Admission_Test_Client\obj\x86\Debug\Online_Admission_Test_Client.Identification.resources
+E:\online_admission_test_both 50%\Online_Admission_Test_Client _v1.2\Online_Admission_Test_Client\obj\x86\Debug\Online_Admission_Test_Client.MachingType.resources
+E:\online_admission_test_both 50%\Online_Admission_Test_Client _v1.2\Online_Admission_Test_Client\obj\x86\Debug\Online_Admission_Test_Client.MultipleChoice.resources
+E:\online_admission_test_both 50%\Online_Admission_Test_Client _v1.2\Online_Admission_Test_Client\obj\x86\Debug\Online_Admission_Test_Client.Resources.resources
+E:\online_admission_test_both 50%\Online_Admission_Test_Client _v1.2\Online_Admission_Test_Client\obj\x86\Debug\Online_Admission_Test_Client.Profile.resources
+E:\online_admission_test_both 50%\Online_Admission_Test_Client _v1.2\Online_Admission_Test_Client\obj\x86\Debug\Online_Admission_Test_Client.Register.resources
+E:\online_admission_test_both 50%\Online_Admission_Test_Client _v1.2\Online_Admission_Test_Client\obj\x86\Debug\Online_Admission_Test_Client.Requirements.resources
+E:\online_admission_test_both 50%\Online_Admission_Test_Client _v1.2\Online_Admission_Test_Client\obj\x86\Debug\Online_Admission_Test_Client.Splash.resources
+E:\online_admission_test_both 50%\Online_Admission_Test_Client _v1.2\Online_Admission_Test_Client\obj\x86\Debug\Online_Admission_Test_Client.StudentMainForm.resources
+E:\online_admission_test_both 50%\Online_Admission_Test_Client _v1.2\Online_Admission_Test_Client\obj\x86\Debug\Online_Admission_Test_Client.TrueOrFalse.resources
+E:\online_admission_test_both 50%\Online_Admission_Test_Client _v1.2\Online_Admission_Test_Client\obj\x86\Debug\Online_Admission_Test_Client.vbproj.GenerateResource.Cache
+C:\Users\Mikaela\Desktop\online_admission_test_both 50%\Online_Admission_Test_Client _v1.2\Online_Admission_Test_Client\obj\x86\Debug\Online_Admission_Test_Client.exe
+C:\Users\Mikaela\Desktop\online_admission_test_both 50%\Online_Admission_Test_Client _v1.2\Online_Admission_Test_Client\obj\x86\Debug\Online_Admission_Test_Client.xml
+C:\Users\Mikaela\Desktop\online_admission_test_both 50%\Online_Admission_Test_Client _v1.2\Online_Admission_Test_Client\obj\x86\Debug\Online_Admission_Test_Client.pdb
+C:\Users\Mikaela\Desktop\online_admission_test_both 50%\Online_Admission_Test_Client _v1.2\Online_Admission_Test_Client\bin\Debug\Online_Admission_Test_Client.exe
+C:\Users\Mikaela\Desktop\online_admission_test_both 50%\Online_Admission_Test_Client _v1.2\Online_Admission_Test_Client\bin\Debug\Online_Admission_Test_Client.pdb
+C:\Users\Mikaela\Desktop\online_admission_test_both 50%\Online_Admission_Test_Client _v1.2\Online_Admission_Test_Client\bin\Debug\Online_Admission_Test_Client.xml
+C:\Users\Mikaela\Desktop\online_admission_test_both 50%\Online_Admission_Test_Client _v1.2\Online_Admission_Test_Client\bin\Debug\ReyBandal.dll
+C:\Users\Mikaela\Desktop\online_admission_test_both 50%\Online_Admission_Test_Client _v1.2\Online_Admission_Test_Client\bin\Debug\ReyBandal.pdb
+C:\Users\Mikaela\Desktop\online_admission_test_both 50%\Online_Admission_Test_Client _v1.2\Online_Admission_Test_Client\bin\Debug\ReyBandal.xml
+C:\Users\Mikaela\Desktop\online_admission_test_both 50%\Online_Admission_Test_Client _v1.2\Online_Admission_Test_Client\obj\x86\Debug\Online_Admission_Test_Client.Examination.resources
+C:\Users\Mikaela\Desktop\online_admission_test_both 50%\Online_Admission_Test_Client _v1.2\Online_Admission_Test_Client\obj\x86\Debug\Online_Admission_Test_Client.ExaminationMain.resources
+C:\Users\Mikaela\Desktop\online_admission_test_both 50%\Online_Admission_Test_Client _v1.2\Online_Admission_Test_Client\obj\x86\Debug\Online_Admission_Test_Client.Inquiries.resources
+C:\Users\Mikaela\Desktop\online_admission_test_both 50%\Online_Admission_Test_Client _v1.2\Online_Admission_Test_Client\obj\x86\Debug\Online_Admission_Test_Client.Login.resources
+C:\Users\Mikaela\Desktop\online_admission_test_both 50%\Online_Admission_Test_Client _v1.2\Online_Admission_Test_Client\obj\x86\Debug\Online_Admission_Test_Client.MainExamForm.resources
+C:\Users\Mikaela\Desktop\online_admission_test_both 50%\Online_Admission_Test_Client _v1.2\Online_Admission_Test_Client\obj\x86\Debug\Online_Admission_Test_Client.Identification.resources
+C:\Users\Mikaela\Desktop\online_admission_test_both 50%\Online_Admission_Test_Client _v1.2\Online_Admission_Test_Client\obj\x86\Debug\Online_Admission_Test_Client.MachingType.resources
+C:\Users\Mikaela\Desktop\online_admission_test_both 50%\Online_Admission_Test_Client _v1.2\Online_Admission_Test_Client\obj\x86\Debug\Online_Admission_Test_Client.MultipleChoice.resources
+C:\Users\Mikaela\Desktop\online_admission_test_both 50%\Online_Admission_Test_Client _v1.2\Online_Admission_Test_Client\obj\x86\Debug\Online_Admission_Test_Client.Resources.resources
+C:\Users\Mikaela\Desktop\online_admission_test_both 50%\Online_Admission_Test_Client _v1.2\Online_Admission_Test_Client\obj\x86\Debug\Online_Admission_Test_Client.Profile.resources
+C:\Users\Mikaela\Desktop\online_admission_test_both 50%\Online_Admission_Test_Client _v1.2\Online_Admission_Test_Client\obj\x86\Debug\Online_Admission_Test_Client.Register.resources
+C:\Users\Mikaela\Desktop\online_admission_test_both 50%\Online_Admission_Test_Client _v1.2\Online_Admission_Test_Client\obj\x86\Debug\Online_Admission_Test_Client.Requirements.resources
+C:\Users\Mikaela\Desktop\online_admission_test_both 50%\Online_Admission_Test_Client _v1.2\Online_Admission_Test_Client\obj\x86\Debug\Online_Admission_Test_Client.Splash.resources
+C:\Users\Mikaela\Desktop\online_admission_test_both 50%\Online_Admission_Test_Client _v1.2\Online_Admission_Test_Client\obj\x86\Debug\Online_Admission_Test_Client.StudentMainForm.resources
+C:\Users\Mikaela\Desktop\online_admission_test_both 50%\Online_Admission_Test_Client _v1.2\Online_Admission_Test_Client\obj\x86\Debug\Online_Admission_Test_Client.TrueOrFalse.resources
+C:\Users\Mikaela\Desktop\online_admission_test_both 50%\Online_Admission_Test_Client _v1.2\Online_Admission_Test_Client\obj\x86\Debug\Online_Admission_Test_Client.vbproj.GenerateResource.Cache
+C:\Users\Mikaela\Desktop\online_admission_test_both 50%\Online_Admission_Test_Client _v1.2\Online_Admission_Test_Client\bin\Debug\Online_Admission_Test_Client.exe.config
+C:\Users\Mikaela\Desktop\online_admission_test_both 50%\Online_Admission_Test_Client _v1.2\Online_Admission_Test_Client\obj\x86\Debug\Online_Admission_Test_Client.EditProfile.resources
+G:\USB Files\Online Admission Test(latest)\Client\Online_Admission_Test_Client\bin\Debug\Online_Admission_Test_Client.exe.config
+G:\USB Files\Online Admission Test(latest)\Client\Online_Admission_Test_Client\obj\x86\Debug\Online_Admission_Test_Client.exe
+G:\USB Files\Online Admission Test(latest)\Client\Online_Admission_Test_Client\obj\x86\Debug\Online_Admission_Test_Client.xml
+G:\USB Files\Online Admission Test(latest)\Client\Online_Admission_Test_Client\obj\x86\Debug\Online_Admission_Test_Client.pdb
+G:\USB Files\Online Admission Test(latest)\Client\Online_Admission_Test_Client\bin\Debug\Online_Admission_Test_Client.exe
+G:\USB Files\Online Admission Test(latest)\Client\Online_Admission_Test_Client\bin\Debug\Online_Admission_Test_Client.pdb
+G:\USB Files\Online Admission Test(latest)\Client\Online_Admission_Test_Client\bin\Debug\Online_Admission_Test_Client.xml
+G:\USB Files\Online Admission Test(latest)\Client\Online_Admission_Test_Client\bin\Debug\ReyBandal.pdb
+G:\USB Files\Online Admission Test(latest)\Client\Online_Admission_Test_Client\bin\Debug\ReyBandal.xml
+G:\USB Files\Online Admission Test(latest)\Client\Online_Admission_Test_Client\obj\x86\Debug\Online_Admission_Test_Client.vbprojResolveAssemblyReference.cache
+G:\USB Files\Online Admission Test(latest)\Client\Online_Admission_Test_Client\obj\x86\Debug\Online_Admission_Test_Client.EditProfile.resources
+G:\USB Files\Online Admission Test(latest)\Client\Online_Admission_Test_Client\obj\x86\Debug\Online_Admission_Test_Client.Examination.resources
+G:\USB Files\Online Admission Test(latest)\Client\Online_Admission_Test_Client\obj\x86\Debug\Online_Admission_Test_Client.ExaminationMain.resources
+G:\USB Files\Online Admission Test(latest)\Client\Online_Admission_Test_Client\obj\x86\Debug\Online_Admission_Test_Client.Inquiries.resources
+G:\USB Files\Online Admission Test(latest)\Client\Online_Admission_Test_Client\obj\x86\Debug\Online_Admission_Test_Client.Login.resources
+G:\USB Files\Online Admission Test(latest)\Client\Online_Admission_Test_Client\obj\x86\Debug\Online_Admission_Test_Client.MainExamForm.resources
+G:\USB Files\Online Admission Test(latest)\Client\Online_Admission_Test_Client\obj\x86\Debug\Online_Admission_Test_Client.Identification.resources
+G:\USB Files\Online Admission Test(latest)\Client\Online_Admission_Test_Client\obj\x86\Debug\Online_Admission_Test_Client.MachingType.resources
+G:\USB Files\Online Admission Test(latest)\Client\Online_Admission_Test_Client\obj\x86\Debug\Online_Admission_Test_Client.MultipleChoice.resources
+G:\USB Files\Online Admission Test(latest)\Client\Online_Admission_Test_Client\obj\x86\Debug\Online_Admission_Test_Client.Resources.resources
+G:\USB Files\Online Admission Test(latest)\Client\Online_Admission_Test_Client\obj\x86\Debug\Online_Admission_Test_Client.Profile.resources
+G:\USB Files\Online Admission Test(latest)\Client\Online_Admission_Test_Client\obj\x86\Debug\Online_Admission_Test_Client.Register.resources
+G:\USB Files\Online Admission Test(latest)\Client\Online_Admission_Test_Client\obj\x86\Debug\Online_Admission_Test_Client.Requirements.resources
+G:\USB Files\Online Admission Test(latest)\Client\Online_Admission_Test_Client\obj\x86\Debug\Online_Admission_Test_Client.Splash.resources
+G:\USB Files\Online Admission Test(latest)\Client\Online_Admission_Test_Client\obj\x86\Debug\Online_Admission_Test_Client.StudentMainForm.resources
+G:\USB Files\Online Admission Test(latest)\Client\Online_Admission_Test_Client\obj\x86\Debug\Online_Admission_Test_Client.TrueOrFalse.resources
+G:\USB Files\Online Admission Test(latest)\Client\Online_Admission_Test_Client\obj\x86\Debug\Online_Admission_Test_Client.vbproj.GenerateResource.Cache
